@@ -1,0 +1,28 @@
+.card-header{
+	margin: 20px;
+}
+.body form{
+	overflow: hidden;
+}
+.body{
+	margin: 10px;
+}
+.body label{
+	margin: 10px;
+	float: left;
+	clear: both;
+}
+.body input{
+	margin-left: 10px;
+	float: left;
+	clear: both;
+}
+.body select{
+	margin-left: 10px;
+	float: left;
+	clear: both;
+}
+
+button{
+	margin-top: 80px;
+}

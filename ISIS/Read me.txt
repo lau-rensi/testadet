@@ -1,0 +1,4 @@
+query kulang na lng ani, kay query na para ma insert and info na ibutang sa user
+padulong sa DB.
+
+UI is simple, no flashy desgins, though it is pollished enough.
